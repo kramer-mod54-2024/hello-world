@@ -1,2 +1,2 @@
-# hello-world
-Este repositório é para praticar o fluxo do GitHub.
+Bom dia, me chamo Guilherme Augusto Kramer, tenho 27 anos e estou cursando Engenharia de software na Unicesumar.
+
